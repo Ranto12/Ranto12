@@ -5,7 +5,6 @@ i am a Informatics engineering
 ## programming language that I master ##
 
   <div>
-    <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
