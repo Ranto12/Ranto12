@@ -4,7 +4,6 @@ i am a Informatics engineering
 
 ## programming language that I master ##
 
-<details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
@@ -20,5 +19,4 @@ i am a Informatics engineering
           </a>
        </p>
      <br>
-  </div>    
-</details>
+  </div>   
