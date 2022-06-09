@@ -4,7 +4,6 @@ i am a Informatics engineering
 
 ## programming language that I master ##
 
-  <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
