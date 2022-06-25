@@ -3,15 +3,15 @@
 i am a Informatics engineering
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/Ranto12/Ranto12/blob/main/resources/img/waving.gif">, I'm Ranto</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/Ranto12/Ranto12/blob/main/resources/img/waving.gif">, I'm Ranto ... oe</h1>
 <h4 align="center">a freelance developer an also an engineering students at Lampung state university</h4>
 </div>
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://Ranto12.github.io/Ranto12/">
   <img  src="https://github.com/Ranto12/Ranto12/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div> -->
+</div>
 
 
   <summary>☎️ contact me</summary>
