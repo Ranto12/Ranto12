@@ -3,7 +3,7 @@
 i am a Informatics engineering
 
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/Ranto12/Ranto12/blob/main/resources/img/waving.gif">, I'm Ranro</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/Ranto12/Ranto12/blob/main/resources/img/waving.gif">, I'm Ranto</h1>
 <h4 align="center">a freelance developer an also an engineering students at Lampung state university</h4>
 </div>
 
@@ -13,7 +13,7 @@ i am a Informatics engineering
        alt="snake" /></a>
 </div> -->
 
-<details>
+
   <summary>☎️ contact me</summary>
 <div>
   <samp>
@@ -38,9 +38,9 @@ i am a Informatics engineering
     </p>
   </samp>
 </div>
-</details>
 
-<details> 
+
+
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
@@ -57,11 +57,8 @@ i am a Informatics engineering
        </p>
      <br>
   </div>    
-</details>
 
-<details>
   <summary>📈 Latest Activity Graph</summary>
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/Ranto12/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Ranto12&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
