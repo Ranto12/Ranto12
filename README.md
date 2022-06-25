@@ -7,11 +7,11 @@ i am a Informatics engineering
 <h4 align="center">a freelance developer an also an engineering students at Lampung state university</h4>
 </div>
 
-<div align="center">
-  <a href="https://Ranto12.github.io/1999AZZAR/">
+<!-- <div align="center">
+  <a href="https://Ranto12.github.io/Ranto12/">
   <img  src="https://github.com/Ranto12/Ranto12/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div>
+</div> -->
 
 <details>
   <summary>☎️ contact me</summary>
@@ -22,18 +22,18 @@ i am a Informatics engineering
       <br/>
       <a href="https://www.linkedin.com/in/ranto-6266101a3/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="ranto" height="30"/></a>
       <a href="https://fb.com/ranto.koplak.121519" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="ranto" height="30"/></a>
       <a href="mailto:rantoirwanda08@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="ranto" height="30"/></a>
     </p>
   <p align="center">
       <a href="https://instagram.com/ranto21" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="ranto" height="30"/></a>
       <br>
     </p>
   </samp>
@@ -50,7 +50,7 @@ i am a Informatics engineering
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranto12&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Ranto12 :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/Ranto12/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Ranto12&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranto12&theme=gruvbox&hide_border=true" />
           </a>
